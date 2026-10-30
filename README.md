@@ -9,7 +9,7 @@ O site foi desenvolvido utilizando HTML5, CSS3, JavaScript e Bootstrap, buscando
 ## Acesse o projeto
 
 - **Site publicado:** https://portgabrielgg-omega.vercel.app/
-- **Repositório GitHub:** [INSIRA AQUI O LINK DO GITHUB]
+- **Repositório GitHub:** https://github.com/Biellzyl/port.gabrielgg
 
 ## Tecnologias utilizadas
 
