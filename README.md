@@ -45,9 +45,12 @@ Tenho interesse na área de tecnologia e busco aprimorar constantemente meus con
 ### Contato
 
 - **GitHub:** https://github.com/Biellzyl
-- **LinkedIn:** [INSIRA SEU LINK]
+- **LinkedIn:** www.linkedin.com/in/gabriel-moreira-053b95447
 - **E-mail institucional:** gabriel.lima154@cps.aluno.sp.gov.br
 
 ---
 
 Desenvolvido por Gabriel Moreira Lima — 2026.
+
+Estruturação por: chat gpt 
+Modificador: Gabriel Moreira Lima
