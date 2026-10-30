@@ -44,9 +44,9 @@ Tenho interesse na área de tecnologia e busco aprimorar constantemente meus con
 
 ### Contato
 
-- **GitHub:** [INSIRA SEU LINK]
+- **GitHub:** https://github.com/Biellzyl
 - **LinkedIn:** [INSIRA SEU LINK]
-- **E-mail institucional:** [INSIRA SEU E-MAIL]
+- **E-mail institucional:** gabriel.lima154@cps.aluno.sp.gov.br
 
 ---
 
